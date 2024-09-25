@@ -1,0 +1,4 @@
+/uploads
+.env
+/app/config.ts
+node_modules
